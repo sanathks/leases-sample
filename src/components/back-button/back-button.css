@@ -1,0 +1,7 @@
+.back-button:hover {
+    color: #727cf5;
+}
+.back-button {
+    font-size: 15px;
+    font-weight: bolder;
+}
